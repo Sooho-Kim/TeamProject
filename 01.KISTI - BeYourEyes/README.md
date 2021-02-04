@@ -1,4 +1,5 @@
 # KISTI TeamProject
+* 일시 : 2020년 8월 19일 ~ 2020년 9월 22일
 ## 프로젝트 진행기
   * [프로젝트 1편](https://sooho-kim.tistory.com/51)
   * [프로젝트 2편](https://sooho-kim.tistory.com/61)
